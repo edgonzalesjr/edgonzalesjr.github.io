@@ -6,6 +6,9 @@
   - [Setup](https://github.com/edgonzalesjr/SETUP)
   - [System Requirements](https://github.com/edgonzalesjr/SYSREQ)
 
+- <b>Virtualization with Proxmox</b>
+  - [Setup](https://github.com/edgonzalesjr/Proxmox)
+
 - <b>C# (.NET Desktop Applications)</b>
   - [CRUD](https://github.com/edgonzalesjr/CRUD)
 
