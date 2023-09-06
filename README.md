@@ -6,8 +6,8 @@
   - [Setup](https://github.com/edgonzalesjr/SETUP)
 
 - <b>Virtualization</b>
-  - [VirtualBox](https://github.com/edgonzalesjr/Virtualbox)
-  - [VMware](https://github.com/edgonzalesjr/VMware)
+  - [VirtualBox on Windows](https://github.com/edgonzalesjr/Virtualbox)
+  - [VMware on Windows](https://github.com/edgonzalesjr/VMware)
   - [Proxmox](https://github.com/edgonzalesjr/Proxmox)
 
 - <b>C# (.NET Desktop Applications)</b>
