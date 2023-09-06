@@ -11,7 +11,8 @@
   - [Proxmox](https://github.com/edgonzalesjr/Proxmox)
 
 - <b>SIEM</b>
-  - [Splunk](https://github.com/edgonzalesjr/Splunk)
+  - [Splunk on Windows](https://github.com/edgonzalesjr/Splunk)
+  - [Splunk on MacOS](https://github.com/edgonzalesjr/Splunk)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [CRUD](https://github.com/edgonzalesjr/CRUD)
