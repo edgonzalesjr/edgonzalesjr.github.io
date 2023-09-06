@@ -2,13 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Lab</b>
+- <b>Active Directory</b>
   - [Setup](https://github.com/edgonzalesjr/SETUP)
 
 - <b>Virtualization</b>
   - [VirtualBox on Windows host](https://github.com/edgonzalesjr/Virtualbox)
   - [VMware on Windows host](https://github.com/edgonzalesjr/VMware)
   - [Proxmox](https://github.com/edgonzalesjr/Proxmox)
+
+- <b>SIEM</b>
+  - [Splunk](https://github.com/edgonzalesjr/Splunk)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [CRUD](https://github.com/edgonzalesjr/CRUD)
