@@ -3,12 +3,18 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Setup](https://github.com/edgonzalesjr/SETUP)
+  - [Setup a Windows Domain Controller](https://github.com/edgonzalesjr/DomainController)
+  - [Create a Domain User Account](https://github.com/edgonzalesjr/DomainUserAccount)
+  - [Join Windows workstation to Windows Domain Controller](https://github.com/edgonzalesjr/JoinWorkstationDomainController)
 
 - <b>Virtualization</b>
   - [VirtualBox on Windows host](https://github.com/edgonzalesjr/Virtualbox)
   - [VMware on Windows host](https://github.com/edgonzalesjr/VMware)
   - [Proxmox](https://github.com/edgonzalesjr/Proxmox)
+
+- <b>IDS</b>
+  - [SecurityOnion](https://github.com/edgonzalesjr/SecurityOnion)
+  - [Snort](https://github.com/edgonzalesjr/Snort)
 
 - <b>SIEM</b>
   - [Splunk on Windows](https://github.com/edgonzalesjr/Splunk)
