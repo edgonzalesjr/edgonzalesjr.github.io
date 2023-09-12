@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edmund! <br/><a href="https://github.com/edgonzalesjr/edgonzalesjr.github.io">IT Professional</a>, <a href="https://www.linkedin.com/in/edgonzalesjr">Cybersecurity Aspirant</a></h1>
+<h1>Hi, I'm Edmund! <br/><a href="https://github.com/edgonzalesjr/edgonzalesjr.github.io">IT Professional</a>, <a href="https://www.linkedin.com/in/edgonzalesjr">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
