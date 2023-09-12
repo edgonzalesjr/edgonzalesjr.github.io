@@ -4,7 +4,7 @@
 
 - <b>Active Directory</b>
   - [Setup a Windows Domain Controller](https://github.com/edgonzalesjr/DomainController)
-  - [Create a Domain User Account](https://github.com/edgonzalesjr/DomainUserAccount)
+  - [Create a Windows Domain User Account](https://github.com/edgonzalesjr/DomainUserAccount)
   - [Join Windows workstation to Windows Domain Controller](https://github.com/edgonzalesjr/JoinWorkstationDomainController)
 
 - <b>Virtualization</b>
