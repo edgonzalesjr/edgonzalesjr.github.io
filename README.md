@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Setup a Windows Domain Controller](https://github.com/edgonzalesjr/DomainController)
+  - [Setup a Windows Domain Controller](https://github.com/edgonzalesjr/Windows-Domain-Controller)
   - [Create a Windows Domain User Account](https://github.com/edgonzalesjr/DomainUserAccount)
   - [Join Windows workstation to Windows Domain Controller](https://github.com/edgonzalesjr/JoinWorkstationDomainController)
 
