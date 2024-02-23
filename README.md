@@ -17,6 +17,7 @@
   - [Snort](https://github.com/edgonzalesjr/Snort)
 
 - <b>SIEM</b>
+  - [Wazuh on Ubuntu](https://github.com/edgonzalesjr/Wazuh)
   - [Splunk on Windows](https://github.com/edgonzalesjr/Splunk)
   - [Splunk on MacOS](https://github.com/edgonzalesjr/Splunk)
 
