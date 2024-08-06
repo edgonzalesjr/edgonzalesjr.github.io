@@ -6,7 +6,7 @@ I am a seasoned IT professional with over a decade of experience in the industry
 
 ## Objective
 
-My journey as an IT professional has fueled a strong passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey as an IT professional has led me to develop a strong passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
