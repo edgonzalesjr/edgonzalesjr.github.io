@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a seasoned IT professional with over a decade of experience in the industry, specializing in IT operations. Throughout my career, I've had the privilege working with a diverse range of companies, including Small and Medium-sized Enterprises.
+I am an experienced IT professional with a decade in the field, focusing on IT operations. Over the course of my career, I have had the opportunity to collaborate with a wide variety of organizations, including small and medium-sized businesses.
 
 ## Objective
 
