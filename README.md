@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 As a seasoned IT professional with a strong passion for information and communication technologies, I have accumulated over a decade of experience working on a diverse range of projects. My background includes valuable skills in desktop support, network administration, security, monitoring, virtualization, server administration, and data management. 
 
 ## Objective
