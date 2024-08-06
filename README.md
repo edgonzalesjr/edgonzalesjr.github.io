@@ -4,11 +4,11 @@
 
 [Brief Introduction]
 
-I am a IT Professional with a profound interest in technology.
+As a seasoned IT professional with a strong passion for information and communication technologies, I have accumulated over a decade of experience working on a diverse range of projects. My background includes valuable skills in desktop support, network administration, security, monitoring, virtualization, server administration, and data management. 
 
 ## Objective
 
-My journey in decade as an IT Professional has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My decade-long journey as an IT professional has fueled a strong passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
