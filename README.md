@@ -37,7 +37,6 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-003C40?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
