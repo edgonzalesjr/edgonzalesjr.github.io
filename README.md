@@ -12,7 +12,7 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab/#extension">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
