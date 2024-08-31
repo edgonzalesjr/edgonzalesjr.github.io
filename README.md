@@ -34,6 +34,7 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 ### Endpoint
 <div>    
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM
