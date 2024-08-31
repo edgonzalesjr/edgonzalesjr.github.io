@@ -49,4 +49,4 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 
 ## Projects
 - <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>
