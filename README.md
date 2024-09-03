@@ -57,6 +57,13 @@ My journey as an IT professional has led me to develop a strong passion for cybe
     <img src="https://img.shields.io/badge/-Shuffle.io-0088FF?&style=for-the-badge&logo=shuffle&logoColor=white" />
 </div>
 
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
