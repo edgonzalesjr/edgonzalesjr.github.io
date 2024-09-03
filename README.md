@@ -39,6 +39,12 @@ My journey as an IT professional has led me to develop a strong passion for cybe
     <img src="https://img.shields.io/badge/-Wazuh-003C40?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### VULNERABILITY MANAGEMENT
+<div>
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-003C71?&style=for-the-badge&logo=nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=openvas&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
