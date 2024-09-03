@@ -47,6 +47,16 @@ My journey as an IT professional has led me to develop a strong passion for cybe
     <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=openvas&logoColor=white" />
 </div>
 
+### Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-FF8C00?&style=for-the-badge&logo=thehive&logoColor=white" />
+</div>
+
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle.io-0088FF?&style=for-the-badge&logo=shuffle&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
