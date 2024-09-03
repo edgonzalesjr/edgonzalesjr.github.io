@@ -24,16 +24,12 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF6F61?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FFCC00?&style=for-the-badge&logo=snort&logoColor=black" />
 </div>
 
 ### Endpoint
-<div>    
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<div>
     <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
