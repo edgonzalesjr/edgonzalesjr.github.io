@@ -15,9 +15,10 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Network Instrusion Detection System           | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
 
 ## Tools
 
