@@ -19,6 +19,7 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 | Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Network Instrusion Detection System           | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
+| Malware Analysis Techniques                        | <a href="https://github.com/edgonzalesjr/">Malware Analysis Techniques</a>|
 
 ## Tools
 
@@ -76,3 +77,4 @@ My journey as an IT professional has led me to develop a strong passion for cybe
 - <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>
 - <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>
 - <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>
+- <a href="https://github.com/edgonzalesjr/">Malware Analysis Techniques</a>
