@@ -61,6 +61,12 @@ My journey as an IT professional has led me to develop a strong passion for cybe
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Volatility%203-000000?&style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-0033A0?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
