@@ -43,11 +43,6 @@ My journey as an IT professional has led me to develop a strong passion for cybe
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Vulnerability Management
-<div>
-    <img src="https://img.shields.io/badge/-Tenable%20Nessus-003C71?&style=for-the-badge&logo=nessus&logoColor=white" />
-</div>
-
 ### Case Management
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FF8C00?&style=for-the-badge&logo=thehive&logoColor=white" />
