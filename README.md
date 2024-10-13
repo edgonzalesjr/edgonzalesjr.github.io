@@ -1,7 +1,8 @@
 <h1>Hi, I'm Edmund!</h1>
 
 <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2102530)](https://tryhackme.com/p/EdmundG) [![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/edgonzalesjr)
+(https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2102530)]
+<a href="https://tryhackme.com/p/edgonzalesjr"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 
 I am an experienced IT professional with a decade in the field, focusing on IT operations. Over the course of my career, I have had the opportunity to collaborate with a wide variety of organizations, including small and medium-sized businesses.
