@@ -1,6 +1,7 @@
 <h1>Hi, I'm Edmund!</h1>
 
 <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 I am an experienced IT professional with a decade in the field, focusing on IT operations. Over the course of my career, I have had the opportunity to collaborate with a wide variety of organizations, including small and medium-sized businesses.
 
