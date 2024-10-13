@@ -1,7 +1,7 @@
 <h1>Hi, I'm Edmund!</h1>
 
 <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/edgonzalesjr"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/EdmundG"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2102530"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 
