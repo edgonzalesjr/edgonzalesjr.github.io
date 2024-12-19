@@ -6,7 +6,6 @@
 
 <!--<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2102530"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>-->
 
-
 I am an experienced IT professional with a decade in the field, focusing on IT operations. Over the course of my career, I have had the opportunity to collaborate with a wide variety of organizations, including small and medium-sized businesses.
 
 ## Objective
